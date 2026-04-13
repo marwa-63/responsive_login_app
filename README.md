@@ -1,16 +1,20 @@
-# login_screen
+ # Responsive Login App
 
-A new Flutter project.
+A modern and responsive login application built with clean architecture and maintainable code practices.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- **Responsive Design**  
+  Works seamlessly across different screen sizes and devices.
 
-A few resources to get you started if this is your first Flutter project:
+- **Clean Structure**  
+  Organized project layout with clear separation of concerns.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Well-Divided Files**  
+  Each feature and component is placed in its own file for clarity.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Easy to Maintain & Improve**  
+  The structure makes it simple to add new features or update existing ones without breaking the app.
+
+ 
+
