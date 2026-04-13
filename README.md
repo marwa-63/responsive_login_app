@@ -2,6 +2,8 @@
 
 A modern and responsive login application built with clean architecture and maintainable code practices.
 
+![App Demo](assets/output/login.gif)
+
 ## ✨ Features
 
 - **Responsive Design**  
